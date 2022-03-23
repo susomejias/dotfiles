@@ -1,0 +1,4 @@
+% fusion
+
+# List all fusion aliases
+cat $HOME/.dotfiles/shell/aliases/fusion.sh

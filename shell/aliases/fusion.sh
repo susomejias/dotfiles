@@ -1,0 +1,5 @@
+alias fs="npx fusion start"
+alias fd="npx fusion down"
+alias fn="npx fusion nuke"
+alias nrd="npm run dev"
+alias nrt="npm run test"

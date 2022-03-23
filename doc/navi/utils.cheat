@@ -1,0 +1,4 @@
+% utils
+
+# List all utils aliases
+cat $HOME/.dotfiles/shell/aliases/utils.sh

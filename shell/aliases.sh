@@ -6,25 +6,16 @@ alias ...="cd ../.."
 alias ll="ls -l"
 alias la="ls -la"
 alias ~="cd ~"
-alias dotfiles='cd $DOTFILES_PATH'
+alias dotfiles="cd '$DOTFILES_PATH'"
+
+# Fusion
+source $HOME/.dotfiles/shell/aliases/fusion.sh
+
+# Jumps
+source $HOME/.dotfiles/shell/aliases/jumps.sh
 
 # Git
-alias gaa="git add -A"
-alias gc='$DOTLY_PATH/bin/dot git commit'
-alias gca="git add --all && git commit --amend --no-edit"
-alias gco="git checkout"
-alias gd='$DOTLY_PATH/bin/dot git pretty-diff'
-alias gs="git status -sb"
-alias gf="git fetch --all -p"
-alias gps="git push"
-alias gpsf="git push --force"
-alias gpl="git pull --rebase --autostash"
-alias gb="git branch"
-alias gl='$DOTLY_PATH/bin/dot git pretty-log'
+source $HOME/.dotfiles/shell/aliases/git.sh
 
 # Utils
-alias k='kill -9'
-alias i.='(idea $PWD &>/dev/null &)'
-alias c.='(code $PWD &>/dev/null &)'
-alias o.='open .'
-alias up='dot package update_all'
+source $HOME/.dotfiles/shell/aliases/utils.sh

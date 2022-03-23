@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+
+source "$DOTLY_PATH/scripts/core/_main.sh"
+
+#https://github.com/JamieMason/ImageOptim-CLI
+##? Optimize an image preserving the original
+#?? 1.0.0
+##?
+##? Usage:
+##?   optimize
+##?   optimize <filename>
+
+
+docs::parse "$@"
+
+original_filename=$(echo "$filename" | sed 's/\(.*\)\./\1.original./')
+
+if  [ ! -z "$filename" ]
+then
+  cp "$filename" "$original_filename"
+
+  imageoptim $filename
+
+  echo "⚡️ File <$filename> optimized!"
+else
+  imageoptim .
+
+  echo "⚡️ All images from this directory <$PWD> are optimized!"
+fi
+
+

@@ -1,0 +1,49 @@
+tap "denisidoro/tools"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "mongodb/brew"
+brew "awk"
+brew "bash"
+brew "bat"
+brew "caddy"
+brew "coreutils"
+brew "findutils"
+brew "fzf"
+brew "gcalcli"
+brew "git"
+brew "git-delta"
+brew "gnu-sed"
+brew "hyperfine"
+brew "libssh2"
+brew "luv"
+brew "make"
+brew "mas"
+brew "node@14"
+brew "navi"
+brew "neovim"
+brew "nghttp2"
+brew "node"
+brew "nvm"
+brew "python@3.9"
+brew "rust"
+brew "shellcheck"
+brew "yarn"
+brew "zsh"
+brew "denisidoro/tools/docpars"
+brew "mongodb/brew/mongodb-community"
+cask "browserstacklocal"
+cask "imageoptim"
+mas "Bitwarden", id: 1352778147
+mas "GarageBand", id: 682658836
+mas "GIPHY CAPTURE", id: 668208984
+mas "iMovie", id: 408981434
+mas "Jira", id: 1475897096
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Slack", id: 803453959
+mas "Spark", id: 1176895641
+mas "Telegram", id: 747648890
+mas "Todoist", id: 585829637
+mas "WhatsApp", id: 1147396723

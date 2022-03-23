@@ -1,0 +1,7 @@
+[user]
+	name = susomejias
+	email = jesusmejias.jm@gmail.com
+	ignorecase = true
+[core]
+	excludesfile = /Users/susomejias/.gitignore
+	autocrlf = input

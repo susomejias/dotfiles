@@ -1,0 +1,4 @@
+% git
+
+# List all git aliases
+cat $HOME/.dotfiles/shell/aliases/git.sh

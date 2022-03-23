@@ -1,0 +1,4 @@
+% jumps
+
+# List all jumps aliases
+cat $HOME/.dotfiles/shell/aliases/jumps.sh
