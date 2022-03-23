@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d1b52a62-23b5-4362-bd72-5d9531a2a906" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/installation-guides/mac/installation-guide.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/installation-guides/mac/installation-guide.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell/zsh/.zim/init.zsh" beforeDir="false" afterPath="$PROJECT_DIR$/shell/zsh/.zim/init.zsh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell/zsh/.zim/init.zsh.zwc" beforeDir="false" afterPath="$PROJECT_DIR$/shell/zsh/.zim/init.zsh.zwc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
