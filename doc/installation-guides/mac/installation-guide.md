@@ -8,20 +8,14 @@
 
 - Update Mac
 
-- Execute the dotfiles installer
-  ``` bash
-  bash <(curl -s https://raw.githubusercontent.com/susomejias/.dotfiles/main/installer)
-  ```
-
 - Install, open and login in ``Google Chrome``
 
 - Install, open and login in ``Google Backup and Sync``
 
-- Install, open and activate license [alfred](https://www.alfredapp.com/)
+- Install, open and activate license [Raycast](https://www.raycast.com/)
   - Gran permissions
   - Start on login
   - Run as a background application
-  - Setting sync folder
 
 - Install, open and activate license [dash](https://kapeli.com/dash)
   - Gran permissions
@@ -63,10 +57,9 @@
 
 - Install [JetBrains Toolbox](https://www.jetbrains.com/es-es/lp/toolbox/) , login with Google account and download the IntelliJ IDEA Ultimate Edition
 
-- Install [JetBrainsMono font](https://www.jetbrains.com/es-es/lp/mono/)
+- Install [Dank Mono font](https://philpl.gumroad.com/l/dank-mono)
 
 - Install [RunJS](https://runjs.app/)
 
-- Install [Obsidian](https://obsidian.md/)
+- Install [LogSeq](https://logseq.com/)
   - Open vault
-  - Login with obsidian account
