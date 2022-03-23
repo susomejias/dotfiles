@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1b52a62-23b5-4362-bd72-5d9531a2a906" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/editors/code/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/.gitconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/.gitignore_global" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langs/js/global_modules.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/langs/python/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/mac/brew/Brewfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/mac/brew/Brewfile.lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/os/mac/iTerm/profiles/com.googlecode.iterm2.plist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shell/aliases.sh" beforeDir="false" afterPath="$PROJECT_DIR$/shell/aliases.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/symlinks/conf.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/symlinks/conf.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
